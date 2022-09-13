@@ -32,7 +32,6 @@ PyGetWindow==0.0.9
 PyJWT==2.4.0
 PyMsgBox==1.0.9
 pyperclip==1.8.2
-pypiwin32==223
 pypng==0.0.21
 PyQRCode==1.2.1
 PyRect==0.1.4
